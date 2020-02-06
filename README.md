@@ -35,7 +35,7 @@ The voltage jumper JP1 must be setted to 5V.
 
 ## Wiring
 
-![My image](https://hackster.imgix.net/uploads/attachments/1067763/img_20200206_102637_xY8ei5e82d.jpg?auto=compress%2Cformat&w=680&h=510&fit=max)
+![My image](https://github.com/HWHardsoft/Incremental-Encoder/blob/master/wiring/wiring_DFS60.jpg)
 
 Because of the 3 independent RS422 channels we need 3 RS422 inputs for the Arduino. For this purpose I've used 3 pcs of my Arduino RS422/RS485 shields - stacked on one Arduino: 
 
