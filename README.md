@@ -19,16 +19,22 @@ I will show in this small project how to use an industrial incremental encoder -
 
 The dip switch setting for any shield is the same:
     S1: ON, OFF, OFF, OFF
+    
     S2: OFF, OFF, ON, ON
+    
     S3: ON, OFF, OFF, OFF
+    
 
 
 ## dip switch setting of RS422 shields
 
 The Jumper setting for any shield is different. Depending from the connected channel the RX pin is configured to:
     shield for Z channel: D2
+    
     shield for COS channel: D3
+    
     shield for SIN channel: D4
+    
 
 The voltage jumper JP1 must be setted to 5V.
 
